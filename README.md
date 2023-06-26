@@ -8,8 +8,10 @@ This Unity script fixes Arabic typing in real-time, allowing you to see how the 
 #####  https://github.com/Konash/arabic-support-unity
 
 ## تعليمات الاستخدام : 
-###  fixed text  لا يوجد  تعليمات مميزة ، فقط قم بكتابة النص الذي تريد عرضه في خانة  
-### ArabicFixerTMPROEditMode الموجودة على سكريبت 
+### قم بإضافة سكربت ArabicFixerTMPROEditModeOnly
+إلى الكائن الذي عليه ال TMPRO
+، واكتب النص الذي تريد عرضه في خانة FixedText
+الموجودة على السكريبت
 
 ## ملاحظة مهمة
 TextMeshPro لا تكتب النص الخاص بك في الصندوق الخاص بال 
