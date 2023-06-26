@@ -1,7 +1,8 @@
 # Unity Arabic Fixer In Realtime
 This Unity script fixes Arabic typing in real-time, allowing you to see how the text looks as you type without needing to hit the Play button
 
-#### هذا السكريبت في يونيتي يعمل على إصلاح الكتابة باللغة العربية في الوقت الحقيقي، مما يتيح لك رؤية شكل النص أثناء الكتابة بدون الحاجة إلى الضغط على زر التشغيل.
+#### هذا السكريبت في يونيتي يعمل على إصلاح الكتابة باللغة العربية فيText Mesh Pro في الوقت الحقيقي، مما يتيح لك رؤية شكل النص أثناء الكتابة بدون الحاجة إلى الضغط على زر التشغيل.
+#### نعمل على إضافة باقي أدوات الكتابة مثل Input Field إلى المشروع قريبًا إن شاء الله
 
 ##### تم بناء هذا السكريبت بعد التعديل على مشروع الأخ عبد الله كونش ، رابط مشروعه : 
 #####  https://github.com/Konash/arabic-support-unity
