@@ -1,5 +1,5 @@
-# ArabicFixerInRealTime
-this unity script fixes Arabic typing in Realtime , you don't need hit play to show how the typing looks like
+# Unity Arabic Fixer In Realtime
+This Unity script fixes Arabic typing in real-time, allowing you to see how the text looks as you type without needing to hit the Play button
 
 #### هذا السكريبت في يونيتي يعمل على إصلاح الكتابة باللغة العربية في الوقت الحقيقي، مما يتيح لك رؤية شكل النص أثناء الكتابة بدون الحاجة إلى الضغط على زر التشغيل.
 
@@ -13,4 +13,4 @@ this unity script fixes Arabic typing in Realtime , you don't need hit play to s
 ## ملاحظة مهمة
 TextMeshPro لا تكتب النص الخاص بك في الصندوق الخاص بال 
 
-![before using script] (https://github.com/abdalrahmanabs/UnityArabicFixerInRealtime/blob/mainBranch/tutorial/Before.PNG)
+![before using script] (![image] https://github.com/abdalrahmanabs/UnityArabicFixerInRealtime/blob/mainBranch/tutorial/Before.PNG)
