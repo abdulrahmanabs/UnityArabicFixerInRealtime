@@ -13,4 +13,6 @@ This Unity script fixes Arabic typing in real-time, allowing you to see how the 
 ## ملاحظة مهمة
 TextMeshPro لا تكتب النص الخاص بك في الصندوق الخاص بال 
 
-![before using script] (![image] https://github.com/abdalrahmanabs/UnityArabicFixerInRealtime/blob/mainBranch/tutorial/Before.PNG)
+! [Cube Surfer Main game image](![image](https://github.com/abdalrahmanabs/UnityArabicFixerInRealtime/blob/mainBranch/tutorial/Before.PNG)
+
+
