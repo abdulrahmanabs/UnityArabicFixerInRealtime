@@ -13,4 +13,4 @@ this unity script fixes Arabic typing in Realtime , you don't need hit play to s
 ## ملاحظة مهمة
 TextMeshPro لا تكتب النص الخاص بك في الصندوق الخاص بال 
 
-![before using script] (./tuturial/Before.png)
+![before using script] (https://github.com/abdalrahmanabs/UnityArabicFixerInRealtime/blob/mainBranch/tutorial/Before.PNG)
