@@ -8,7 +8,7 @@ using UnityEditor;
 [ExecuteInEditMode]
 #endif
 
-public class ArabicFixerTMPRO : MonoBehaviour
+public class ArabicFixerTMPROEditModeOnly : MonoBehaviour
 {
     public string fixedText;
     public bool ShowTashkeel;
@@ -93,7 +93,9 @@ public class ArabicFixerTMPRO : MonoBehaviour
     void Update()
     {
         if (isFixed) return;
+        #if UNITY_EDITOR
         if (EditorApplication.isPlaying) return;
+        #endif
         if (!isInitilized)
             return;
 
